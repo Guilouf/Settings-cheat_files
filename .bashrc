@@ -4,3 +4,5 @@ export PS1="\[$(tput bold)\]\[\033[38;5;11m\]\u\[$(tput sgr0)\]\[$(tput sgr0)\]\
 
 #ALIAS
 alias cd.='cd ..'
+alias win='cd /mnt/c'
+alias win='cd /mnt/c/Users/Guigui'
