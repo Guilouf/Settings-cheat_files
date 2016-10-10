@@ -21,3 +21,4 @@
 * voila, ca marche pas mais normalement c'est bon
 * [x] checkbox
 - double espace ca fait revenir à la ligne
+`2* alt+7 sur windows pour le code`
