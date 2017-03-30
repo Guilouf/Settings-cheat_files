@@ -1,5 +1,5 @@
 
-#Commandes utiles:
+# Commandes utiles:
 - git status
 - git add fichier.txt
 - git commit -m "message"
@@ -7,11 +7,11 @@
 - si problemes: git fetch origin, puis git reset --hard origin/master
 - les gist c'est un pastebin
 
-#Les us et coutumes:
+# Les us et coutumes:
 - Les .balec sont dans le gitignore 
 
     
-#Cheat markdown:
+# Cheat markdown:
 - _italic_
 - **gras**
 - [hypertexte](https://intranet.inria.fr/)
@@ -20,6 +20,17 @@
 1. liste numérotée, suivie avec un "*"
 * voila, ca marche pas mais normalement c'est bon
 * [x] checkbox
+* [ ] vide
 - double espace ca fait revenir à la ligne
 
-`2* alt+7 sur windows pour le code`
+`2* alt+7 sur windows pour une ligne de code`
+
+```python 
+#3*alt7 pour un bloc, préciser le langage pour le highlight
+def bidule(truc):
+    pass
+```
+
+
+    4 espaces pour faire un bloc simple
+
