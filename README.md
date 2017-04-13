@@ -21,7 +21,8 @@
 * voila, ca marche pas mais normalement c'est bon
 * [x] checkbox
 * [ ] vide
-- double espace ca fait revenir à la ligne
+- double espace en fin de ligne fait une line break  
+T'as vu?
 
 `2* alt+7 sur windows pour une ligne de code`
 
