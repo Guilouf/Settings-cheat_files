@@ -1,6 +1,6 @@
 # Branches
 ## In single branch repository
-`git checkout -b branch_name`  # it creates the branch. Do a pull to get the changes 
+`git checkout -b branch_name`  # it creates the branch, how to create the new remote??
 
 ## forced checkout
 `git checkout -f branch_name`
