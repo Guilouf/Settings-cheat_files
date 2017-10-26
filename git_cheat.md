@@ -14,3 +14,6 @@
 ## List branches
 - Remote branches: `git ls-remote`
 - Local ones: `git branch -a`
+
+# Clean reset..
+`git clean -f` force clean
